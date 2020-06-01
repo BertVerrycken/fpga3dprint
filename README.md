@@ -1,10 +1,19 @@
 # fpga3dprint
 FPGA for a 3D printer under CC share alike v3 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-**Motor control
+**Motor control (OUT)**
 
-**Sensors
+Stepper motor step and direction outputs.
 
-**Heat control
+**Sensors (IN)**
 
-**Display
+***Physical endstops***
+***Probes***
+***Thermistor***
+
+**Heat control(OUT)**
+
+***Heatbed***
+***Extruder heater***
+
+**Display(OUT)**
